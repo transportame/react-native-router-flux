@@ -65,6 +65,11 @@
     "jest": "19.0.1",
     "react-test-renderer": "15.4.2"
   },
+  "peerDependencies": {
+    "react-native": ">=0.43.0",
+    "react": ">=16.0.0-alpha.3",
+    "react-native-vector-icons": "~4.1.1"
+  },
   "jest": {
     "preset": "react-native"
   }
